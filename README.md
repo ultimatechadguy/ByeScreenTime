@@ -19,6 +19,7 @@ iOS 12-14 tested only! I haven't had the opportunity to test this on iOS 15+, bu
 3. Go to Settings, and click on `Profile Downloaded`.
 4. Hit install.
 5. Profit.
+6. NOTE: After you're done you can disable Supervised Mode and the changes will stay (see screenshots).
 
 ## Screenshots
 
