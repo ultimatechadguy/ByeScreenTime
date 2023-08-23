@@ -19,3 +19,10 @@ iOS 12-14 tested only! I haven't had the opportunity to test this on iOS 15+, bu
 3. Go to Settings, and click on `Profile Downloaded`.
 4. Hit install.
 5. Profit.
+
+## Screenshots
+
+<p float="left">
+    <img src="https://github.com/ultimatechadguy/ByeScreenTime/blob/master/IMG_1920.PNG" width="400" />
+    <img src="https://github.com/ultimatechadguy/ByeScreenTime/blob/master/IMG_1921.PNG" width="400" />
+<p>
