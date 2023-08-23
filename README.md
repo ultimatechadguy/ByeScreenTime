@@ -1,10 +1,11 @@
 # ByeScreenTime
 This .mobileconfig (iPhone/iPad/iPod profile) will disable screentime. This requires your device to be "fake supervised", which requires iMazing or to have iSupervisor (if jailbroken).
 ## This will NOT work without iDevice supervision!
-iOS 12-14 tested only! I haven't had the opportunity to test this on iOS 15+, but it should work.
+iOS 12-14 tested only! I haven't had the opportunity to test this on iOS 15+, but it should work (I can confirm that iOS 16.0 works).
+
 
 ## Supervisor Mode using Cowabunga
-1. Make sure you're on IOS 14-16.1.2 (Settings>General>About>iOS Version).
+1. Make sure you're on iOS 14-16.1.2 (Settings>General>About>iOS Version).
 2. Sideload [Cowabunga](https://github.com/leminlimez/Cowabunga/releases/latest) using any method.
 3. Go to the Tools tab inside Cowabunga and scroll to the bottom.
 4. Click Miscellaneous and enable the Supervised option.
