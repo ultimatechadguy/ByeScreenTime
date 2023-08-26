@@ -6,12 +6,17 @@ iOS 12-14 tested only! I haven't had the opportunity to test this on iOS 15+, bu
 
 ## Supervisor Mode using Cowabunga
 1. Make sure you're on iOS 14-16.1.2 (Settings>General>About>iOS Version).
+IMPORTANT: The MDC exploit that Cowabunga uses was patched on iOS 15.7.2 meaning you cannot use this if you're on iOS 15.7.8 but you can use it on iOS 16.0.
 2. Sideload [Cowabunga](https://github.com/leminlimez/Cowabunga/releases/latest) using any method.
 3. Go to the Tools tab inside Cowabunga and scroll to the bottom.
 4. Click Miscellaneous and enable the Supervised option.
 5. Restart your iPhone/iPad/iPod and you should see something like "This device is managed" in Settings.
 6. You have successfully enabled Supervised Mode.
 7. NOTE: Whenever you want to disable Supervised Mode, go back to Cowabunga and toggle the Supervised option off (restart your device after).
+
+## Supervisor Mode using iMazing
+
+View guide on the [iMazing](https://imazing.com/guides/how-to-supervise-iphone-ipad) website.
 
 ## Installation
 1. Open [this link](https://raw.githubusercontent.com/singlekeycap/ByeScreenTime/master/ByeScreenTime.mobileconfig) in Safari.
