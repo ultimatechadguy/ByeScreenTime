@@ -21,6 +21,16 @@ iOS 12-14 tested only! I haven't had the opportunity to test this on iOS 15+, bu
 5. Profit.
 6. NOTE: After you're done you can disable Supervised Mode and the changes will stay (see screenshots).
 
+## Permanentaly Disable Screen Time
+
+After I used the profile for a few days, I notices that something it didn't work and I would still run out of screen time so I figured out how to permanentaly disable screen time.
+1. After you have supervisor mode off, turn on airplane mode and remove the profile.
+2. Go into Screen Time and set it up.
+3. Make sure to not setup Screen Time as a parent.
+4. Disable everything you want in the screen time settings and finally disable airplane mode.
+5. If anything gets changed be sure to change them back.
+6. You have successfully permanentaly disabled iOS Screen Time!
+
 ## Screenshots
 
 <p float="left">
