@@ -11,12 +11,12 @@ IMPORTANT: The MDC exploit that Cowabunga uses was patched on iOS 15.7.2 meaning
 
 As of 8/26/2023 [there is a bug](https://twitter.com/LeminLimez/status/1694401088395342036) in Cowabunga that may brick your iDevice when you enable supervisor mode; either wait until the bug is fixed or continue with the tutorial.
 
-3. Sideload [Cowabunga](https://github.com/leminlimez/Cowabunga/releases/latest) using any method.
-4. Go to the Tools tab inside Cowabunga and scroll to the bottom.
-5. Click Miscellaneous and enable the Supervised option.
-6. Restart your iPhone/iPad/iPod and you should see something like "This device is managed" in Settings.
-7. You have successfully enabled Supervised Mode.
-8. NOTE: Whenever you want to disable Supervised Mode, go back to Cowabunga and toggle the Supervised option off (restart your device after).
+2. Sideload [Cowabunga](https://github.com/leminlimez/Cowabunga/releases/latest) using any method.
+3. Go to the Tools tab inside Cowabunga and scroll to the bottom.
+4. Click Miscellaneous and enable the Supervised option.
+5. Restart your iPhone/iPad/iPod and you should see something like "This device is managed" in Settings.
+6. You have successfully enabled Supervised Mode.
+7. NOTE: Whenever you want to disable Supervised Mode, go back to Cowabunga and toggle the Supervised option off (restart your device after).
 
 ## Supervisor Mode using iMazing
 
