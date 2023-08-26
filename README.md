@@ -10,6 +10,7 @@ iOS 12-14 tested only! I haven't had the opportunity to test this on iOS 15+, bu
 IMPORTANT: The MDC exploit that Cowabunga uses was patched on iOS 15.7.2 meaning you cannot use this if you're on iOS 15.7.8 but you can use it on iOS 16.0.
 
 As of 8/26/2023 [there is a bug](https://twitter.com/LeminLimez/status/1694401088395342036) in Cowabunga that may brick your iDevice when you enable supervisor mode; either wait until the bug is fixed or continue with the tutorial.
+
 3. Sideload [Cowabunga](https://github.com/leminlimez/Cowabunga/releases/latest) using any method.
 4. Go to the Tools tab inside Cowabunga and scroll to the bottom.
 5. Click Miscellaneous and enable the Supervised option.
